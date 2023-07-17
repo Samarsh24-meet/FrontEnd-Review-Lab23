@@ -3,3 +3,10 @@ body{
 	background: pink;
 
 	 }
+#pineapple{
+	color : deeppink;
+	-webkit-text-stroke : 1px white;
+}
+.barb{
+	color : deeppink;
+}
